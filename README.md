@@ -1,7 +1,4 @@
-mapproject
+Nearest Parking Meter Finder
 ==========
 
-My group's contribution in the google hackathon event.
-
-Dan Lin's attempt to add a commitment to this project 
-blah blah
+This is an Android App we developed for the Google Hackathon at Oregon State University. This app is still under development. The purpose of this app is to find the nearest parking meter at your current location. Future functions include finding the nearest empty parking meter spot and keeping track of the parking meter time.
